@@ -1,0 +1,111 @@
+/* ---------- Background ---------- */
+
+.stApp{
+    background-color:#0D0D0D;
+    color:white;
+}
+
+/* ---------- Main Container ---------- */
+
+.block-container{
+    max-width:1100px;
+    padding-top:2rem;
+}
+
+/* ---------- Title ---------- */
+
+h1{
+    text-align:center;
+    color:#D4AF37;
+    font-weight:700;
+}
+/* ---------- Subtitle ---------- */
+
+.stCaption{
+    text-align:center;
+    color:#b8b8b8;
+    font-size:18px;
+}
+
+/* ---------- Form ---------- */
+
+div[data-testid="stForm"]{
+    border:none;
+    background:transparent;
+}
+
+/* ---------- Textbox ---------- */
+
+.stTextInput input{
+    background:#1A1A1A;
+    color:white;
+    border:2px solid #D4AF37;
+    border-radius:12px;
+}
+
+/* ---------- Button ---------- */
+
+.stButton button{
+    background:#D4AF37;
+    color:black;
+    font-weight:bold;
+    border-radius:12px;
+    border:none;
+    height:55px;
+}
+
+.stButton button:hover{
+    background:#E8C766;
+}
+
+.main-title{
+    color:#D4AF37;
+    text-align:center;
+    font-size:3.2rem;
+    font-weight:800;
+    letter-spacing:2px;
+    margin-bottom:0;
+}
+
+.main-title{
+    color:#D4AF37 !important;
+    text-align:center;
+    font-size:3.2rem;
+    font-weight:800;
+    letter-spacing:2px;
+    margin-bottom:0;
+}
+
+/* ================= Sidebar ================= */
+
+section[data-testid="stSidebar"]{
+    background-color:#111111;
+}
+
+/* Project Name */
+
+section[data-testid="stSidebar"] h2{
+    color:#D4AF37 !important;
+    font-weight:700;
+}
+
+/* Powered By */
+
+section[data-testid="stSidebar"] h3{
+    color:#D4AF37 !important;
+    font-weight:600;
+}
+
+/* Version, Built by, List */
+
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] li,
+section[data-testid="stSidebar"] strong{
+    color:#D0D0D0 !important;
+}
+
+/* Divider */
+
+section[data-testid="stSidebar"] hr{
+    border-color:#444444;
+}
