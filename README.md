@@ -185,22 +185,22 @@ This project is developed for educational and portfolio purposes.
 
 ### 🏠 Home Page
 
-![rmindhome](assets/rmindhome.png)
+![Home](assets/home.png)
 
 ---
 
-### 📄 Research Report 
+### 📄 Research Report - AI in Healthcare
 
-![rmindreport 1](assets/rmindreport1.png)
-
----
-
-### 📄 Research Report 
-
-![rmindreport 2](assets/rmindreport2.png)
+![Report 1](assets/report1.png)
 
 ---
 
-### 📄 Research Report 
+### 📄 Research Report - Artificial Intelligence in Education
 
-![rmindreport 3](assets/rmindreport3.png)
+![Report 2](assets/report2.png)
+
+---
+
+### 📄 Research Report - Cybersecurity Trends
+
+![Report 3](assets/report3.png)
