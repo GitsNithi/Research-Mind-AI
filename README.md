@@ -10,25 +10,25 @@ Research Mind is a Multi-Agent AI application that automates the complete resear
 
 ## 🏠 Home Page
 
-![Home](assets/home.PNG)
+![Home](images/home.PNG)
 
 ---
 
 ## 📄 Research Report 
 
-![Report 1](assets/report1.PNG)
+![Report 1](images/report1.PNG)
 
 ---
 
 ## 📄 Research Report 
 
-![Report 2](assets/report2.PNG)
+![Report 2](images/report2.PNG)
 
 ---
 
 ## 📄 Research Report
 
-![Report 3](assets/report3.PNG)
+![Report 3](images/report3.PNG)
 
 ---
 
